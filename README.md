@@ -1,2 +1,2 @@
 # Analyzing-the-effect-of-fluid-rheology-on-the-coherent-flow-structures-using-DMD-technique
-Numerical analysis of non-Newtonian power law fluid at fixed Reynolds number. With the help of data driven model called Dynamic Mode Decomposition (DMD) we decompose the data and reduce the order of the flow. Using this technique we extract the coherent flow structures in the flow past a cylinder in laminar vortex shedding regime.
+Numerical analysis of non-Newtonian power law fluid at fixed Reynolds number. With the help of data driven model called Dynamic Mode Decomposition (DMD) we decompose the data and reduce the order of the flow. Using this technique we can extract the coherent flow structures in the flow past a cylinder in laminar vortex shedding regime.
